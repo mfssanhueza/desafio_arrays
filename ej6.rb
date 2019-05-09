@@ -22,4 +22,5 @@ e = e.push(a)
 e = e.push(b)
 f = e.transpose
 print f
-
+g = a & b
+print g
