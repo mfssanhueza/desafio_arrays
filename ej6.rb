@@ -24,3 +24,7 @@ f = e.transpose
 print f
 g = a & b
 print g
+
+
+#hash
+f.to_h
